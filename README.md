@@ -1,7 +1,8 @@
 # Hi there my name is Doğukan Okumuş 
 <hr> 
 
-<h3>I live in Bursa and do my internship as a frontend developer.<h3/>
+<h3>I live in Bursa and do my internship as a frontend developer. 
+I love software and I want to do what I love in every moment of my life. I really enjoy this job.<h3/>
   <br>
   
   <h3>Connect With Me<h3/>
