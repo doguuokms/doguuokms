@@ -1,4 +1,4 @@
-# Hi there my name is Doğukan Okumuş 👋
+# Hi there my name is Doğukan Okumuş <img height:"25px" width:"25px"; src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <hr> 
 
 <h3>I live in Bursa and do my internship as a frontend developer.<h3/>
