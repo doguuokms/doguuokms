@@ -1,7 +1,7 @@
 # Hi there my name is Doğukan Okumuş  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; width:45px; height:45px; display: inline-block;" data-target="animated-image.originalImage">
 <hr> 
 
-<h3 style="border: 2 px solid white";>I live in Bursa and do my internship as a frontend developer. 
+<h3 style="border: 3px solid white;">I live in Bursa and do my internship as a frontend developer. 
 I love software and I want to do what I love in every moment of my life. I really enjoy this job.I do my best to improve myself in the field of frontend developing, I try to produce my own ideas and I try to code the challenges on the frontendmentor site.<h3/>
   <br>
   
