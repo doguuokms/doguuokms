@@ -2,6 +2,7 @@
 <hr> 
 
 <h3>I live in Bursa and do my internship as a frontend developer.<h3/>
+  <br> <br> <br>
 
   
 # Languages and Tools
