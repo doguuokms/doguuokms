@@ -6,7 +6,7 @@ Hi there, I am Doğukan Okumuş. I am 23 years old. I live in Bursa. I am doing 
 
 
 
-![css (1)](https://user-images.githubusercontent.com/109750560/196692079-d762988e-9ed4-4c9b-8eac-ae4ea299fa4a.svg)
+[css (1)](https://user-images.githubusercontent.com/109750560/196692079-d762988e-9ed4-4c9b-8eac-ae4ea299fa4a.svg)
 
 
 
