@@ -3,6 +3,10 @@
 
 <h3>I live in Bursa and do my internship as a frontend developer.<h3/>
   <br> <br> <br>
+  
+  # Connect With Me
+  <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/dogukanokumus/" rel="nofollow"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="max-width: 100%;"></a>
 
   
 # Languages and Tools
