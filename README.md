@@ -5,7 +5,7 @@
   <br> <br> <br>
   
   # Connect With Me
-  <a href="https://www.linkedin.com/in/dogukanokumus/" rel="nofollow"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="max-width: 100%;"></a>   <a href="https://github.com/doguuokms/dogukanokumus"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/dogukanokumus/" rel="nofollow"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="max-width: 100%;"></a>    <a href="https://github.com/doguuokms/dogukanokumus"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" style="max-width: 100%;"></a>
   
 
 
