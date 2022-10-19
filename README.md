@@ -4,7 +4,7 @@
 <h3>I live in Bursa and do my internship as a frontend developer.<h3/>
   <br> <br> <br>
   
-  # Connect With Me
+  <h3>Connect With Me<h3/>
   <a href="https://www.linkedin.com/in/dogukanokumus/" rel="nofollow"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="max-width: 100%;"></a>    <a href="https://github.com/doguuokms/dogukanokumus"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" style="max-width: 100%;"></a>   <a href="[https://twitter.com/doguuokms](https://twitter.com/doguuokms)" rel="nofollow"> <img width="35px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" style="max-width: 100%;"></a>
   
 
