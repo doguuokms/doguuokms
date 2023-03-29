@@ -2,7 +2,7 @@
 <hr> 
 
 <h3 style="border: 3px solid white;">I live in Bursa and do my internship as a frontend developer. 
-I love software and I want to do what I love in every moment of my life. I really enjoy this job.I do my best to improve myself in the field of frontend developing, I try to produce my own ideas and I try to code the challenges on the frontendmentor site.<h3/>
+I love software and I want to do what I love in every moment of my life. I really enjoy this job.I do my best to improve myself in the field of frontend developing.<h3/>
   <br>
   Glad to see you here! 😄
   
