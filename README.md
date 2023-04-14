@@ -1,8 +1,6 @@
 # Hi there my name is Doğukan Okumuş  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; width:45px; height:45px; display: inline-block;" data-target="animated-image.originalImage">
 <hr> 
 
-<h3 style="border: 3px solid white;">I live in Bursa and do my internship as a frontend developer. 
-
 Hello, I am Doğukan Okumuş. I am a self-taught software developer. I have a very ambitious and determined nature. I would like to state that I am passionately committed to the software industry. I want to be permanent in this sector, to take part in good projects, to develop good projects, to do what I love.<h3/>
   <br>
   Glad to see you here! 😄
