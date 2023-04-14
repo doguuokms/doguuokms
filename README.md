@@ -2,7 +2,8 @@
 <hr> 
 
 <h3 style="border: 3px solid white;">I live in Bursa and do my internship as a frontend developer. 
-I love software and I want to do what I love in every moment of my life. I really enjoy this job.I do my best to improve myself in the field of frontend developing.<h3/>
+
+Hello, I am Doğukan Okumuş. I am a self-taught software developer. I have a very ambitious and determined nature. I would like to state that I am passionately committed to the software industry. I want to be permanent in this sector, to take part in good projects, to develop good projects, to do what I love.<h3/>
   <br>
   Glad to see you here! 😄
   
