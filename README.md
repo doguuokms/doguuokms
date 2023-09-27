@@ -1,7 +1,9 @@
 # Hi there my name is Doğukan Okumuş  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; width:45px; height:45px; display: inline-block;" data-target="animated-image.originalImage">
 <hr> 
 
-Hello, I am Doğukan Okumuş. I am a self-taught software developer. I have a very ambitious and determined nature. I would like to state that I am passionately committed to the software industry. I want to be permanent in this sector, to take part in good projects, to develop good projects, to do what I love.<h3/>
+ I have 1.5 years of experience as a software developer. I am currently studying occupational health and safety at Anadolu University. I am also a student of Istanbul University Web Design and Coding.
+
+I am open to self-development and have a very ambitious nature. I am compatible with teamwork.In the projects I enter, I design front-ends responsively using HTML , CSS, SASS, Bootstrap, Tailwind Css, Material UI, JavaScript, jQuery, React, VueJS and I use Gulp structure and Nunjuck template engineering while developing projects. I take great care to work pixel perfect according to the design in Figma. While doing all this, I improve my research skills using google, team play and programming languages. I learn about the operation of the project and the test stages before the project goes live. I have experience in using Jira to manage and track projects.<h3/>
   <br>
   Glad to see you here! 😄
   
